@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://murad-karimli.github.io/my-portfolio/](https://murad-karimli.github.io/my-portfolio/)
+- 👨‍💻 My portfolio is available at [https://murad-karimli.github.io/my-portfolio/](https://murad-karimli.github.io/my-portfolio/)
 
 - 💬 Ask me about **react, javascript**
 
