@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murad Karimli!</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate Cybersecurity Analyst from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [Gramy](https://github.com/RaviHamidov/Gramy)
+- 🔭 I’m currently working on creating useful tools
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **DFIR**
 
 - 👨‍💻 My portfolio is available at [https://murad-karimli.github.io/my-portfolio/](https://murad-karimli.github.io/my-portfolio/)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **Cybersecurity, Web development**
 
 - 📫 How to reach me **murad.ker.36@gmail.com**
 
