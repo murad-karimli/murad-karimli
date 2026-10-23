@@ -14,7 +14,7 @@ Currently working as a Cybersecurity Engineer at **SOCAR Tech**, focusing on thr
 ---
 
 ### 🚀 Featured Project
-* **[Cortex-XDR-SecOps-Playbooks](https://github.com/murad-karimli/Cortex-XDR-SecOps-Playbooks)** — Production-tested XQL playbooks and case studies for rapid vulnerability exposure assessment (e.g., PHP2Shell / CVE-2026-109618) and behavioral post-exploitation threat hunting across hybrid enterprise environments.
+* **[Cortex-XDR-SecOps-Playbooks](https://github.com/murad-karimli/Cortex-XDR-SecOps-Playbooks)** — Production-tested XQL playbooks and case studies for rapid vulnerability exposure assessment and behavioral post-exploitation threat hunting across hybrid enterprise environments.
 
 ---
 
@@ -31,7 +31,3 @@ Currently working as a Cybersecurity Engineer at **SOCAR Tech**, focusing on thr
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murad-karimli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Murad's GitHub Stats" />
-</p>
